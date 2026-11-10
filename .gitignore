@@ -1,0 +1,23 @@
+# ROS / colcon generated files
+/build/
+/install/
+/log/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Editor and temporary files
+.vscode/
+.idea/
+*.swp
+*.swo
+~$*
+.~lock.*#
+.DS_Store
+
+# Local credentials and environment
+.env
+.env.*
+!.env.example
